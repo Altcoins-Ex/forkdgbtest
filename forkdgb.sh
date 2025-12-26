@@ -1,7 +1,7 @@
 #!/bin/bash -e
 # This script is an experiment to clone litecoin into afsdaf safasfsa
 # brand new coin + blockchain.
-# The script will perform the following steps:
+# The script will perform the following steps: will perform the following steps: will perform the following steps: will perform the following steps:
 # 1) create first a docker image with ubuntu ready to build and run the new coin daemon
 # 2) clone GenesisH0 and mine the genesis blocks of main, test and regtest networks in the container (this may take a lot of time)
 # 3) clone litecoin
