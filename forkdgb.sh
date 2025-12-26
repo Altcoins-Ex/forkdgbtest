@@ -1,5 +1,5 @@
 #!/bin/bash -e
-# This script is an experiment to clone litecoin into a test
+# This script is an experiment to clone litecoin into a 
 # brand new coin + blockchain.
 # The script will perform the following steps:
 # 1) create first a docker image with ubuntu ready to build and run the new coin daemon
